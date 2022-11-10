@@ -17,8 +17,8 @@ Later
 Shottr  
 [BarTender 4](https://www.macbartender.com/Bartender4/)  
 
-Linearmouse
-Warp
-iTerm2
-oh-my-zsh
+Linearmouse  
+Warp  
+iTerm2  
+oh-my-zsh  
 
