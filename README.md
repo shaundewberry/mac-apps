@@ -16,6 +16,7 @@ CopyClip
 Later  
 Shottr  
 [BarTender 4](https://www.macbartender.com/Bartender4/)  
+Amphetamine  
 
 Linearmouse  
 Warp  
