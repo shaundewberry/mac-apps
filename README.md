@@ -13,8 +13,8 @@
 [Magnet](https://magnet.crowdcafe.com/) - Keeps your workspace organized.  
 [Later](https://getlater.app/) - A simple Mac app to clear and restore your workspace with ease.  
 [Shottr](https://shottr.cc/) - A small, fast, human-sized screenshot app.  
-[BarTender 4](https://www.macbartender.com/Bartender4/) - Superpowers your menu bar, giving you total control over your menu bar items.
-[Amphetamine](https://apps.apple.com/us/app/amphetamine) -  Powerful keep-awake utility.   
+[BarTender 4](https://www.macbartender.com/Bartender4/) - Superpowers your menu bar, giving you total control over your menu bar items.  
+[Amphetamine](https://apps.apple.com/us/app/amphetamine) - Powerful keep-awake utility.   
 [Linearmouse](https://linearmouse.org/) - Customize Mouse and Track Pad.    
 [Warp](https://www.warp.dev/) - Rust-based terminal.  
 [iTerm2](https://iterm2.com/) - MacOS terminal.    
