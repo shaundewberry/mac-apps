@@ -12,7 +12,8 @@
 [LuLu](https://objective-see.org/products/lulu.html) - Free, open-source firewall.  
 [Magnet](https://magnet.crowdcafe.com/) - Keeps your workspace organized.  
 [Later](https://getlater.app/) - A simple Mac app to clear and restore your workspace with ease.  
-[Shottr](https://shottr.cc/) - A small, fast, human-sized screenshot app.  
+[Shottr](https://shottr.cc/) - A small, fast, human-sized screenshot app.
+[t-rec](https://github.com/sassman/t-rec-rs)) - Terminal recorder.  
 [BarTender 4](https://www.macbartender.com/Bartender4/) - Superpowers your menu bar, giving you total control over your menu bar items.  
 [Amphetamine](https://apps.apple.com/us/app/amphetamine) - Powerful keep-awake utility.   
 [Linearmouse](https://linearmouse.org/) - Customize Mouse and Track Pad.    
