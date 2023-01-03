@@ -1,8 +1,9 @@
 # A list of useful Mac apps
 
+[BetterTouchTool](https://folivora.ai/) - Customize your Mac input devices e.g. using tap-to-click with Magic Mouse.  
 [TextSniper](https://textsniper.app/) - Extract text from images and other digital documents in seconds.  
 [VLC](https://www.videolan.org/vlc/) - Media Player.  
-[Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default.  
+[Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. Be careful with Excel - it may work too well! 
 [DropZone 4](https://aptonic.com/) - Makes it faster and easier to move and copy files, launch applications, upload to many different services, and more.  
 [Dropover](https://dropoverapp.com/) - Makes Drag and Drop easier. Use it to stash, gather or move any draggable content without having to open side-by-side windows.  
 [Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers.   
