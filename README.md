@@ -34,4 +34,7 @@
      - Templater
      - Text Generator (with OpenAI)
 
+- [Raycast](https://www.raycast.com/)  
+   With Raindrop.io plugin  
+   
 
