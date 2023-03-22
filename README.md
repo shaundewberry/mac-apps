@@ -23,6 +23,15 @@
   - [A great guide to configuring iTerm](https://www.typefloundry.com/1-800-iterm-bling.html)  
 - [oh-my-zsh](https://ohmyz.sh/) - Manage your Zsh configuration.    
 
-- [Obsidian](https://obsidian.md/)
-   With Obsidian Raindrop plugin(https://github.com/mtopping/obsidian-raindrop)
-   
+- [Obsidian](https://obsidian.md/)  
+   With Obsidian Raindrop plugin(https://github.com/mtopping/obsidian-raindrop)  
+   Other plugins:  
+     - Advanced Tables
+     - Calendar
+     - Dataview
+     - Note Refactor
+     - Tasks
+     - Templater
+     - Text Generator (with OpenAI)
+
+
