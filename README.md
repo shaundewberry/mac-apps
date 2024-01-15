@@ -27,12 +27,25 @@
    With Obsidian Raindrop plugin(https://github.com/mtopping/obsidian-raindrop)  
    Other plugins:  
      - Advanced Tables
+     - Auto Link Title
+     - Awesome Image
+     - Banners
      - Calendar
+     - Confluence Integration
      - Dataview
+     - ExcaliBrain
+     - Excalidraw
+     - Iconize
+     - Jira Issue
+     - Link Favicons
+     - Natural Language Dates
      - Note Refactor
+     - Omnisearch
+     - Periodic Notes
+     - Style Settings
      - Tasks
      - Templater
-     - Text Generator (with OpenAI)
+     - Text Generator (with OpenAI)  * Currently not used
 
 - [Raycast](https://www.raycast.com/)  
    With Raindrop.io plugin  
